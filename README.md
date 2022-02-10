@@ -16,3 +16,5 @@ NOTE: The occurance of generated fraud has been increased to 1 in 5 transactions
 Therefore, the static metrics will not match the dynamic metrics. The true occurance of fraud is set in the "lib\app_functions\new_transaction.py" file 
 by changing the line "x=randint(0,4)" to "x=randint(0,587)"
 
+NOTE: The estimates for the metrics will most likely not match the dynamic metrics even when the fraud occurance is correctly set due to the 
+error from the synthetically generated data which is not accounted for.
