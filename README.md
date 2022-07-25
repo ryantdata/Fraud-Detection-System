@@ -3,7 +3,7 @@ Hello!
 # Fraud-Detection-System
 This repository contains a simple End-to-end ML project with the aim to build up dashboard creation, coding, and model deployment skills.
 
-The app address is "fraud-system.herokuapp.com"
+The app address is "fraud-system.herokuapp.com" (Takes a little time to load)
 
 The Technical Report directory contains a PDF explaining the design of the system and the thought process behind the design choices.
 
