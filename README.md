@@ -1,4 +1,4 @@
-UPDATE: I've just noticed that Heroku no longer supports free app deployment so this app is no longer accessible. The technical report is still valuable to read for insight on the modelling process and project goals.
+UPDATE: I've just noticed that Heroku no longer supports free app deployment so this app is no longer accessible. The technical report is still valuable to read for insight on the modelling process and project goals. I will try to deploy it again once I have finished the other things I am currently working on.
 
 Hello!
 
