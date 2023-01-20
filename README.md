@@ -1,3 +1,5 @@
+UPDATE: I've just noticed that Heroku no longer supports free app deployment so this app is no longer accessible. The technical report is still valuable to read for insight on the modelling process and project goals.
+
 Hello!
 
 # Fraud-Detection-System
