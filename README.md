@@ -1,4 +1,4 @@
-UPDATE: The app is no longer deployed, however I'm keeping the repo public just as an example of work. The technical report is still valid and the code is old but is still okay to look at.
+UPDATE 12/10/2023: The app is no longer deployed as the project is 18 months old, however I will attempt to redeploy using AWS at some point but I am studying for AWS cloud practitioner as of now. I'm keeping the repo public just as an example of work. The technical report is still valid and explains the analysis and decision making of the project. The code is old but is still okay to look at.
 
 
 
