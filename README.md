@@ -1,5 +1,5 @@
 # Fraud-Detection-System
-This repository contains a simple End-to-end ML project with the aim to build up dashboard creation, coding, and model deployment skills.
+This repository contains a simple End-to-end ML project with the aim to build up dashboard creation, coding, and model deployment skills. (Keep in mind this is an old project now, my skillset has greatly improved since this was created.)
 
 The app address is "https://fraudapp-production-50f6.up.railway.app/" 
 
